@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eren Alay"
-  avatar           : "erenalay.github.io/images/avatar2.png"
+  avatar           : "erenalay.github.io/images/avatar.png"
   bio              : "Former research staff at <a style='color: black;' href='https://centers.njit.edu/cibm3/'> Center for Injury Biomechanics, Materials and Medicine</a> and future PhD student at the <a style='color: black;' href='http://www.healthailab.org'> Health and AI Lab</a> ; AI/ML in health informatics, causal inference, decision making"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KVOy8Y8AAAAJ&hl=en"
