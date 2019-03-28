@@ -83,6 +83,7 @@ author:
   name             : "Eren Alay"
   avatar           : "https://imgur.com/a/7q4WSLJ"
   bio              : "Former research staff at <a style='color: black;' href='https://centers.njit.edu/cibm3/'> Center for Injury Biomechanics, Materials and Medicine</a> and as a future PhD student at the <a style='color: black;' href='http://www.healthailab.org'> Health and AI Lab</a> focused on AI/ML in health informatics, causal inference, decision making."
+  location         : "Hoboken, NJ"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KVOy8Y8AAAAJ&hl=en"
   email            : "FirstLetterofMyFirstNameMyLastName at stevens dot edu"
@@ -183,6 +184,18 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  proceedings:
+    output: true
+    permalink: /:collection/:path/
+  miscellany:
+    output: true
+    permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
+  recent:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -223,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _proceedings
+  - scope:
+      path: ""
+      type: proceedings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -240,6 +262,30 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _miscellany
+  - scope:
+      path: ""
+      type: miscellany
+    values:
+      layout: miscellany
+      author_profile: true
+      share: true
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: resources
+      author_profile: true
+      share: true
+  # _recent
+  - scope:
+      path: ""
+      type: recent
+    values:
+      layout: recent
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -255,7 +301,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
