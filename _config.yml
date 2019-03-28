@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-
+  name             : "Eren Alay"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KVOy8Y8AAAAJ&hl=en"
   email            : "FirstLetterofMyFirstNameMyLastName at stevens dot edu"
