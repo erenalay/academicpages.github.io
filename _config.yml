@@ -187,9 +187,6 @@ collections:
   proceedings:
     output: true
     permalink: /:collection/:path/
-  miscellany:
-    output: true
-    permalink: /:collection/:path/
   resources:
     output: true
     permalink: /:collection/:path/
@@ -260,14 +257,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _miscellany
-  - scope:
-      path: ""
-      type: miscellany
-    values:
-      layout: miscellany
       author_profile: true
       share: true
   # _resources
