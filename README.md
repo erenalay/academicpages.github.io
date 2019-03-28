@@ -1,1 +1,1 @@
-Academic website for Eren Alay built on the "AcademicPages" GitHub Pages template (forked then detached by Stuart Geiger from the Minimal Mistakes Jekyll Theme, © 2016 Michael Rose and released under the MIT License, posted in License.md).
+Academic website for Eren Alay built on the "AcademicPages" GitHub Pages template (forked from Stuart Geiger and used some parts of it from Alexandra Paxton. Originally, the main template from the Minimal Mistakes Jekyll Theme, © 2016 Michael Rose and released under the MIT License, posted in License.md).
