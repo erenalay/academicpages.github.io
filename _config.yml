@@ -84,7 +84,9 @@ author:
   avatar           : "avatar2.jpg"
   bio              : "CS enthusiast"
   location         : "Hoboken, NJ"
-  employer         : "Health and AI Lab, Computer Science Department, Stevens Institute of Technology"
+  employer         : "Health and AI Lab"
+                     "Computer Science Department"
+                     "Stevens Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KVOy8Y8AAAAJ&hl=en"
   email            : "FirstLetterofMyFirstNameMyLastName at stevens dot edu"
