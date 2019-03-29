@@ -38,25 +38,3 @@ redirect_from:
 <br>Neural Prosthetics Laboratory
 <br>New Jersey Institute of Technology, Newark, NJ
 <br><i>January 2012 — January 2014</i></p>
-
-## Peer-Reviewed Journal Publications
-
-Asterisk indicates dual first-author position.
-Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
-are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
-</i>) are provided for **personal use only.** 
-
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-
-## Conference Proceedings
-
-Asterisk indicates dual first-author position.
-Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
-are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
-</i>) are provided for **personal use only.**
-
-{% for post in site.proceedings reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
