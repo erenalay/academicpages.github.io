@@ -50,8 +50,8 @@ My ultimate goal is to push the frontiers of knowledge in research areas such as
 personalized medicine, predictive diagnostics, and decision making by the power of 
 artificial intelligence, machine learning and deep learning.
 
-## Some recent work
+#Some recent work
 
-{% for post in site.recent %}
+#{% for post in site.recent %}
   {% include archive-recent.html %}
-{% endfor %}
+#{% endfor %}
