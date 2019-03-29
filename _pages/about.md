@@ -23,17 +23,16 @@ my M.S. degree in [Biomedical Engineering](https://biomedical.njit.edu/) from
 [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/), Newark, NJ 
 in 2014. I was a research assistant working with [Prof. Mesut Sahin](https://biomedical.njit.edu/faculty/sahin) 
 in [Neural Prosthetics Lab](https://web.njit.edu/~sahin/). 
-In December 2014, I joined [Center for Injury Biomechanics, Materials and Medicine]
-(https://centers.njit.edu/cibm3/) at NJIT as research associate performing research 
-with Profs. Chandra and Skotak. I worked on research projects that rely on the 
-investigation of the characteristics and the effects of blast waves on both animal 
-and biomechanical models. This includes evaluation of biomechanical loading via 
-pressure measurements, investigation of biochemical changes in the injured brains 
-and computational work. The biggest part of my workload comprises analysis and 
-interpretation of the experimental data, i.e. quantification of characteristics of various 
-pressure-time waveforms, including time-series analysis, evaluation of histological 
-samples from high-resolution imaging of full coronal brain sections (e.g. silver stain 
-and various immunohistochemical stains).
+In December 2014, I joined [Center for Injury Biomechanics, Materials and Medicine](https://centers.njit.edu/cibm3/) 
+at NJIT as research associate performing research with Profs. Chandra and Skotak. 
+I worked on research projects that rely on the investigation of the characteristics 
+and the effects of blast waves on both animal and biomechanical models. This includes
+evaluation of biomechanical loading via pressure measurements, investigation of 
+biochemical changes in the injured brains and computational work. The biggest part 
+of my workload comprises analysis and interpretation of the experimental data, 
+i.e. quantification of characteristics of various pressure-time waveforms, including 
+time-series analysis, evaluation of histological samples from high-resolution imaging 
+of full coronal brain sections (e.g. silver stain and various immunohistochemical stains).
 
 In August 2019, I will be working with [Samantha Kleinberg](http://www.skleinberg.org/) 
 as a PhD student in [Health and AI Lab](http://www.healthailab.org/) at 
