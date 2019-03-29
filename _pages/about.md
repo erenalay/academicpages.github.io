@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+# “You cannot take what you have not given, and you must give yourself. You cannot buy the Revolution. You cannot make
+# the Revolution. You can only be the Revolution.” 
+#							― Ursula K. Le Guin, The Dispossessed
+
 ## About me
 
 I received the B.S. degree in Electronics Engineering from Ankara University, 
