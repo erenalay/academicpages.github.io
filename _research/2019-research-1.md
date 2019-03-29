@@ -1,7 +1,7 @@
 ---
 title: "Research experience 1"
 collection: research
-type: "lab"
+type: "HAIL"
 permalink: /research/2019-research-1.md
 venue: "University 1, Department"
 date: 2014-01-01
