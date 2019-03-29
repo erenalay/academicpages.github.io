@@ -31,10 +31,9 @@ waveforms, including time-series analysis, evaluation of histological samples fr
 high-resolution imaging of full coronal brain sections (e.g. silver stain and 
 various immunohistochemical stains.
 
-Now, I am in the transition period to the PhD. In August, I will be working with
-[Samantha Kleinberg] (http://www.skleinberg.org/) as a PhD student in
-[Health and AI Lab] (http://www.healthailab.org/) at [Stevens]
-(https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science). 
+In August, I will be working with [Samantha Kleinberg] (http://www.skleinberg.org/) 
+as a PhD student in [Health and AI Lab] (http://www.healthailab.org/) at 
+[Stevens] (https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science). 
 
 I am interested in research problems based on: 
 		
