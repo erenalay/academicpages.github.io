@@ -1,6 +1,6 @@
 ---
 title: "Research experience 1"
-collection: teaching
+collection: research
 type: "HAIL"
 permalink: /research/2019-research-1.md
 venue: "University 1, Department"
