@@ -36,7 +36,7 @@ Now, I am in the transition period to the PhD. In August, I will be working with
 [Health and AI Lab] (http://www.healthailab.org/) at [Stevens]
 (https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science). 
 
-I am interested in the research problems based on: 
+I am interested in research problems based on: 
 		
    1) information extraction and integration from multiscale, multimodal health informatics, 
 	 2) learning from the health data,
