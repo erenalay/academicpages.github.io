@@ -11,6 +11,10 @@ redirect_from:
 
 ## Education
 
+<p style="margin-left: 40px"><b>Ph.D., Computer Science</b>
+<br>Stevens Institute of Technology, Hoboken
+<br><i>August 2019 - present</i></p>
+
 <p style="margin-left: 40px"><b>M.S., Biomedical Engineering</b>
 <br>New Jersey Institute of Technology, Newark
 <br><i>September 2011 - January 2014</i></p>
@@ -37,27 +41,21 @@ redirect_from:
 
 ## Peer-Reviewed Journal Publications
 
-Mentees’ names underlined. Asterisk indicates dual first-author position.
+Asterisk indicates dual first-author position.
 Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
 are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
-</i>) are provided for **personal use only.** Supplementary materials on GitHub
-(<i class="fa fa-github" aria-hidden="true"></i>) and OSF
-(<i class="ai ai-fw ai-osf"></i>) for each publication are linked below the
-citation.
+</i>) are provided for **personal use only.** 
 
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 
-## Refereed Conference Proceedings
+## Conference Proceedings
 
-Mentees’ names underlined. Asterisk indicates dual first-author position.
+Asterisk indicates dual first-author position.
 Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
 are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
-</i>) are provided for **personal use only.** Supplementary materials on GitHub
-(<i class="fa fa-github" aria-hidden="true"></i>) and OSF
-(<i class="ai ai-fw ai-osf"></i>) for each publication are linked below the
-citation.
+</i>) are provided for **personal use only.**
 
 {% for post in site.proceedings reversed %}
   {% include archive-single-cv.html %}
