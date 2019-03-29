@@ -40,7 +40,7 @@ I am interested in the research problems based on:
 		
    1) information extraction and integration from multiscale, multimodal health informatics, 
 	 2) learning from the health data,
-	 3)	causal inference. 
+	 3)causal inference. 
 			
 My ultimate goal is to push the frontiers of knowledge in research areas such as 
 personalized medicine, predictive diagnostics, and decision making by the power of 
