@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eren Alay"
   avatar           : "profile.png"
-  bio              : "I'm a PhD student in the <a style='color: red;' href='https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science'> department of computer science</a> at <a style='color: red;' href='https://www.stevens.edu/'> Stevens Institute of Technology</a>, advised by <a style='color: black;' href='http://www.skleinberg.org/'> Prof. Samantha Kleinberg</a> and working in the <a style='color: green;' href='http://www.healthailab.org'> Health and AI Lab</a>. Focused on AI/ML in health informatics, causal inference, decision making modeling."
+  bio              : "I'm an incoming PhD student in the <a style='color: red;' href='https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science'> department of computer science</a> at <a style='color: red;' href='https://www.stevens.edu/'> Stevens Institute of Technology</a>, advised by <a style='color: black;' href='http://www.skleinberg.org/'> Prof. Samantha Kleinberg</a> and working in the <a style='color: green;' href='http://www.healthailab.org'> Health and AI Lab</a>. Focused on AI/ML in health informatics, causal inference, decision making modeling."
   location         : "Hoboken, NJ"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KVOy8Y8AAAAJ&hl=en"
