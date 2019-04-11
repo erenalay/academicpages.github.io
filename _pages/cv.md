@@ -11,15 +11,15 @@ redirect_from:
 
 ## Education
 
-<p style="margin-left: 40px"><b>Ph.D., Computer Science</b>
+<p style="margin-left: 40px"><b>PhD, Computer Science</b>
 <br>Stevens Institute of Technology, Hoboken
 <br><i>August 2019 - present</i></p>
 
-<p style="margin-left: 40px"><b>M.S., Biomedical Engineering</b>
+<p style="margin-left: 40px"><b>MS, Biomedical Engineering</b>
 <br>New Jersey Institute of Technology, Newark
 <br><i>September 2011 - January 2014</i></p>
 
-<p style="margin-left: 40px"><b>B.S., Electronics Engineering</b>
+<p style="margin-left: 40px"><b>BS, Electronics Engineering</b>
 <br>Ankara University, Ankara
 <br><i>September 2007 - June 2011</i></p>
 
