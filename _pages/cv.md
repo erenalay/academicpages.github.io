@@ -32,7 +32,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>Research Assistant</b>
 <br>NYU Langone Health, Bellevue Hospital Center, New York, NY
-<br><i>August 2016 — July 2018</i></p>
+<br><i>June 2014 — October 2014</i></p>
 
 <p style="margin-left: 40px"><b>Research Assistant</b>
 <br>Neural Prosthetics Laboratory
