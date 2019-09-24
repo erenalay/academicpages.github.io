@@ -28,7 +28,7 @@ redirect_from:
 <p style="margin-left: 40px"><b>Research Associate</b>
 <br>Center for Injury Biomechanics, Materials, and Medicine
 <br>New Jersey Institute of Technology, Newark, NJ
-<br><i>December 2014 — July 2019</i></p>
+<br><i>December 2014 — August 2019</i></p>
 
 <p style="margin-left: 40px"><b>Research Assistant</b>
 <br>NYU Langone Health, Bellevue Hospital Center, New York, NY
