@@ -25,6 +25,11 @@ redirect_from:
 
 ## Employment
 
+<p style="margin-left: 40px"><b>Research Assistant</b>
+<br>Health and AI Laboratory
+<br>Stevens Institute of Technology, Hoboken, NJ
+<br><i>January 2020 - January 2025 (expected)</i></p>
+
 <p style="margin-left: 40px"><b>Research Associate</b>
 <br>Center for Injury Biomechanics, Materials, and Medicine
 <br>New Jersey Institute of Technology, Newark, NJ
