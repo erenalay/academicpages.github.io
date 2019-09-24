@@ -29,12 +29,12 @@ I worked on research projects that rely on the investigation of the characterist
 and the effects of blast waves on both animal and biomechanical models. This includes
 evaluation of biomechanical loading via pressure measurements, investigation of 
 biochemical changes in the injured brains and computational work. The biggest part 
-of my workload comprises analysis and interpretation of the experimental data, 
+of my workload comprised analysis and interpretation of the experimental data, 
 i.e. quantification of characteristics of various pressure-time waveforms, including 
 time-series analysis, evaluation of histological samples from high-resolution imaging 
 of full coronal brain sections (e.g. silver stain and various immunohistochemical stains).
 
-In August 2019, I will be working with [Prof. Samantha Kleinberg](http://www.skleinberg.org/) 
+In January 2020, I will be working with [Prof. Samantha Kleinberg](http://www.skleinberg.org/) 
 as a PhD student in [Health and AI Lab](http://www.healthailab.org/) at 
 [Stevens](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science). 
 
