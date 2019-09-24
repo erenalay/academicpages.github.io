@@ -13,7 +13,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>PhD, Computer Science</b>
 <br>Stevens Institute of Technology, Hoboken
-<br><i>August 2019 - present</i></p>
+<br><i>January 2020 - January 2025 (expected)</i></p>
 
 <p style="margin-left: 40px"><b>MS, Biomedical Engineering</b>
 <br>New Jersey Institute of Technology, Newark
