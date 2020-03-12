@@ -40,10 +40,10 @@ as a PhD student in [Health and AI Lab](http://www.healthailab.org/) at
 
 I am interested in research problems based on: 
 		
-   1. information extraction and integration from multiscale, multimodal health informatics, 
-   2. learning from the health data,
-   3. causal inference. 
+   1. causal inference, 
+   2. decision making,
+   3. learning from the data. 
 			
 My ultimate goal is to push the frontiers of knowledge in research areas such as 
-personalized medicine, predictive diagnostics, and decision making by the power of 
+personalized medicine and decision making by the power of 
 artificial intelligence, machine learning and deep learning.
