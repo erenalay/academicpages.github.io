@@ -38,7 +38,7 @@ I am working with [Prof. Samantha Kleinberg](http://www.skleinberg.org/)
 as a PhD student in [Health and AI Lab](http://www.healthailab.org/) at 
 [Stevens](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science). 
 
-I am interested in research problems based on: 
+My research interest focuses on: 
 		
    1. causal inference, 
    2. decision making,
