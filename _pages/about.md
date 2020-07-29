@@ -43,7 +43,4 @@ My research interest focuses on:
    1. causal inference, 
    2. decision making,
    3. learning from the data. 
-			
-My ultimate goal is to push the frontiers of knowledge in research areas such as 
-personalized medicine and decision making by the power of 
-artificial intelligence, machine learning and deep learning.
+
