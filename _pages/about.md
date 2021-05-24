@@ -44,4 +44,4 @@ My research interest focuses on:
    2. decision making,
    3. learning from the data. 
 
-I am also an affiliate of Algorithms, Law, and Policy working group under the umbrella of [Mechanism Design for Social Good (MD4SG)] (https://www.md4sg.com/index.html) initiative. 
+I am also an affiliate of Algorithms, Law, and Policy working group under the umbrella of [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com/index.html) initiative. 
