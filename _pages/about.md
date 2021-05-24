@@ -34,7 +34,7 @@ i.e. quantification of characteristics of various pressure-time waveforms, inclu
 time-series analysis, evaluation of histological samples from high-resolution imaging 
 of full coronal brain sections (e.g. silver stain and various immunohistochemical stains).
 
-I am working with [Prof. Samantha Kleinberg](http://www.skleinberg.org/) 
+Currently, I am working with [Prof. Samantha Kleinberg](http://www.skleinberg.org/) 
 as a PhD student in [Health and AI Lab](http://www.healthailab.org/) at 
 [Stevens](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science). 
 
@@ -44,3 +44,4 @@ My research interest focuses on:
    2. decision making,
    3. learning from the data. 
 
+I am also an affiliate of Algorithms, Law, and Policy working group under the umbrella of [Mechanism Design for Social Good (MD4SG)] (https://www.md4sg.com/index.html) initiative. 
